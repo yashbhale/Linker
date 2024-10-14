@@ -1,0 +1,3 @@
+/home/yashbhale/cross_platform_linker/build/CMakeFiles/linker.dir
+/home/yashbhale/cross_platform_linker/build/CMakeFiles/edit_cache.dir
+/home/yashbhale/cross_platform_linker/build/CMakeFiles/rebuild_cache.dir

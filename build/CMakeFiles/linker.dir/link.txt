@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/linker.dir/src/main.cpp.o CMakeFiles/linker.dir/src/parser.cpp.o CMakeFiles/linker.dir/src/symbol_table.cpp.o CMakeFiles/linker.dir/src/relocation.cpp.o CMakeFiles/linker.dir/src/linker.cpp.o CMakeFiles/linker.dir/src/platform_detector.cpp.o -o linker 
